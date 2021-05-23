@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITVDN_HomeWork", "ITVDN_HomeWork\ITVDN_HomeWork.csproj", "{BC3765CC-1F74-433E-9048-8AEFA29C45C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITVDN_HomeWork", "ITVDN_HomeWork\ITVDN_HomeWork.csproj", "{BC3765CC-1F74-433E-9048-8AEFA29C45C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Classes", "001_Classes\001_Classes.csproj", "{D3AA0FB8-E837-4D4D-ACEA-C63A4678DF00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Classes", "001_Classes\001_Classes.csproj", "{D3AA0FB8-E837-4D4D-ACEA-C63A4678DF00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Classes", "002_Classes\002_Classes.csproj", "{0F30D10A-E4C3-496A-B1D5-F2A8B2F34B3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D3AA0FB8-E837-4D4D-ACEA-C63A4678DF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3AA0FB8-E837-4D4D-ACEA-C63A4678DF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3AA0FB8-E837-4D4D-ACEA-C63A4678DF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F30D10A-E4C3-496A-B1D5-F2A8B2F34B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F30D10A-E4C3-496A-B1D5-F2A8B2F34B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F30D10A-E4C3-496A-B1D5-F2A8B2F34B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F30D10A-E4C3-496A-B1D5-F2A8B2F34B3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

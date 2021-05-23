@@ -23,32 +23,32 @@ namespace _001_Classes
             private int apartment;
             public int Index {
                 get { return index; }
-                set { index = Index; }
+                set { index = value; }
             }
             public string Country
             {
                 get { return country; }
-                set { country = Country; }
+                set { country = value; }
             }
             public string City
             {
                 get { return city; }
-                set { city = City; }
+                set { city = value; }
             }
             public string Street
             {
                 get { return street; }
-                set { street = Street; }
+                set { street = value; }
             }
             public int House
             {
                 get { return house; }
-                set { house = House; }
+                set { house = value; }
             }
             public int Apartment
             {
                 get { return apartment; }
-                set { apartment = Apartment; }
+                set { apartment = value; }
             }
 
         }
