@@ -28,8 +28,6 @@ namespace _002_Classes
         Реализуйте вывод на экран информации о пользователе.*/
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
             User newUser = new User();
             newUser.login = "SayIt23";
             newUser.name = "Jay";
